@@ -1,0 +1,31 @@
+.BOX {
+    width: 31.33%;
+    background-color: black;
+    float: left;
+    margin: 12px 1%;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.BOX img {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    border-radius: 50%;
+    margin-top: 10px;
+   
+    
+}
+.BOX h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: normal;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+.BOX p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: justify;
+    text-align: center;
+}
